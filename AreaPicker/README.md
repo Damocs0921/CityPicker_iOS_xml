@@ -1,10 +1,9 @@
 
-中国省市地区选择器
+中国大陆城市地区选择器，支持省市区三级与省市二级两种    对@Cloud Dai 2012年版本的ARC扩展，新增xml格式的本地数据源的读取与解析
 
 ## 使用
 1. 将area picker group 下的全部文件拖到你的项目下。
 2. 添加QuartzCore.framework
 
-具体看实例
 
-![snapshot](http://ww4.sinaimg.cn/bmiddle/76770db5gw1dwr6gax695j.jpg)
+![snapshot](http://chuantu.biz/t2/10/1434021033x1822611408.png)
